@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594282227 source:d:\stage\langage c\gestion-de-notes\main.c
+	<stdio.h>
+	<stdlib.h>
+
